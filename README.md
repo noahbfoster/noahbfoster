@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noahbfoster
 - 👀 I’m interested in Computer Science and Information Security
-- 🌱 I’m newly graduated with a Master of Science in Computer Science with a concentration in Information Security and Privacy at UNCC
+- 🌱 I’m newly graduated student with a Master of Science in Computer Science and a concentration in Information Security and Privacy from UNCC
 - 📫 You can email me at noabfoster@yahoo.com
 
 <!---
